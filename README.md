@@ -23,7 +23,12 @@ Change Data Types to match values
 Merged datasets appropritaly to gather unique features for analysis 
 Data cleaning
   - Can be found in Cleaned Data.ipynp & SQL_datacleaning.ipynb within notebooks
+  
+Plotting found in:  
+  PLOTTING.ipynb
 
+Presentation found in :
+DSNYC103122-Module-1.pptx
 EDA:
 Focused on Profit rate, Domestic & Foreign sale distribution, Popularity, and Studios
 
