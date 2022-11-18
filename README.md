@@ -34,4 +34,3 @@ Focused on Profit rate, Domestic & Foreign sale distribution, Popularity, and St
 
 ## Conclusion
 The films that generate the largest profit are made outside of the US (Foreign Gross Sales)
-
