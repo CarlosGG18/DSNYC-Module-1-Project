@@ -2,19 +2,19 @@
 
 MODULE 1 DATA SCEINCE PROJECT
 
-Goals
-Assist Microsoft in making data-driven business decision on how it should enter the movie making market
 
+## Overview
 Data
 BOM.Movie_gross.csv - Provided me with spedning and earnings for movies alongside studios 
 movie_basics.csv - Was used to connect the movie ID's with respective titles
 rt_movie_info
 im.db - genres, principal cast and crew, and their demographic characteristics 
-
-## Overview
+Goals
+Assist Microsoft in making data-driven business decision on how it should enter the movie making market
 
 ## Business Understanding
 Microsoft needs to yeild high profits but also remain popular among consumers, hire top directors and focus on foreign market 
+
 ## Data Understanding and Analysis
 DATA CLEANING -
 Remove Nans
