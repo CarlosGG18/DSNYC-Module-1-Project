@@ -28,7 +28,8 @@ Data cleaning
   
 ## Plotting Found in:  
   PLOTTING.ipynb
-
+  Respective graphs found in:
+  #Images Folder
 #Presentation found in :
 DSNYC103122-Module-1.pptx
 EDA:
